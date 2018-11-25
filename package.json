@@ -112,5 +112,9 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "axios": "^0.18.0",
+    "xml2js": "^0.4.19"
   }
 }
