@@ -1,3 +1,15 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+.app {
+  background-color: #2A4660;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }

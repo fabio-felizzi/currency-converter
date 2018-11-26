@@ -1,0 +1,32 @@
+.converter {
+    display: inherit;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+
+.valueWrapper {
+    display: inline-flex;
+    flex-direction: column;
+    margin: 15px;
+}
+
+.valueWrapper .dropdown {
+    background-color: #283952;
+    border-color: transparent;
+    color: white;
+}
+
+.valueWrapper .amount {
+    background-color: #283952;
+    color: white;
+    border: none;
+    padding: 30px;
+    font-size: 1.4em;
+}
+
+.result {
+    display: flex;
+    flex-direction: row;
+}
